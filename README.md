@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Joseph9866
-- 👀 I’m interested in Tech space
-- 🌱 I’m currently learning AWS cloud computing
-- 💞️ I’m looking to collaborate on collaborative projects
-- 📫 How to reach me josekeam01@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Joseph Kimani (@Joseph9866)
 
-<!---
-Joseph9866/Joseph9866 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 👨‍💻 I’m a Web Developer & Cloud Enthusiast passionate about building tech tools that solve real-world problems.
+* 🌍 Based in Kenya, actively contributing to the digital economy and upskilling communities.
+* ☁️ AWS Certified Cloud Practitioner | SIYB Trainer | React + Node.js Developer
+* 🌱 Learning & building with **React + Vite**, **Node.js + Express**, **TypeScript**, **MongoDB**, and **AWS**
+* 🤝 I’m looking to collaborate on AI-powered web apps, cloud-based solutions, and impact-driven tech projects.
+* 📫 Reach me: [josekeam01@gmail.com](mailto:josekeam01@gmail.com)&#x20;
+* 😄 Pronouns: He/Him
+* ⚡ Fun fact: I train upcoming entrepreneurs on starting and growing businesses using tech + SIYB skills!
+
+---
